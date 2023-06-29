@@ -4,6 +4,8 @@ Uso de iteraciones para calcular el factorial de un número entero.
 
 $x! = \prod _{i = 1} ^{x} {i}$
 
+### Ejemplo de uso
+
 ```Octave
 exec ('factorial.sci', -1)
 
