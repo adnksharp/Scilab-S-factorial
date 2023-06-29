@@ -1,9 +1,16 @@
-# Factorial de números enteros
+# x!
 
 Uso de iteraciones para calcular el factorial de un número entero.
 
-```
-Factorial de... 12
- 
-12! = 479001600
+$x! = \prod _{i = 1} ^{x} {i}$
+
+```Octave
+exec ('factorial.sci', -1)
+
+--> fact(170)
+ ans  =
+
+   7.26D+306
+
+--> exit
 ```
